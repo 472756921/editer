@@ -1,0 +1,6 @@
+const editConfig = {
+    toolbarConfig: {
+        excludeKeys: ["color", "bgColor", "emotion", "group-video"],
+    }
+}
+export default editConfig
